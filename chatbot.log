@@ -46,3 +46,7 @@
 2026-08-03 22:54:16,252 - INFO - AFC is enabled with max remote calls: 10.
 2026-08-03 22:54:24,226 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
 2026-08-03 22:54:24,231 - INFO - Summary generated successfully
+2026-08-03 23:13:08,473 - INFO - Calling Gemini API
+2026-08-03 23:13:08,475 - INFO - AFC is enabled with max remote calls: 10.
+2026-08-03 23:13:09,945 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2026-08-03 23:13:09,958 - INFO - Gemini API call successful
